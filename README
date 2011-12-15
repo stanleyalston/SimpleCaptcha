@@ -1,0 +1,10 @@
+SimpleCaptcha
+Yet another captcha script. The project includes a handler and a demo file. Configuration is done on the Captcha.ashx file. 
+
+This is an upfront concept of a captcha in .NET. Like so,
+
+
+<img src="Captcha.ashx"/>
+
+
+Just by making the handler as the source of your image, random alphanumeric characters will automatically be displayed.
